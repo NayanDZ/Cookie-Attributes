@@ -92,7 +92,7 @@ Example: `Set-Cookie: __Secure-ID=123; Secure; Domain=github.com`
 ## Best Practice
 Most secure cookie attribute configuration
 ```javascript
-Set-Cookie: __Host-SID=123; path=/; Secure; HttpOnly; SameSite=Strict
+Set-Cookie: __Host-SID=123; path=/user; Secure; HttpOnly; SameSite=Strict
 ```
 
 
