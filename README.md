@@ -1,7 +1,5 @@
 # Cookie-Attributes
 
-## Information
-
 Cookies is small piece of information stored on the client side, which are sent to the server when every request send by the client. 
 
 * **Cookies are primarily used for:**
